@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+anthropic
+playwright
+pydantic
+requests
+python-dotenv
+ reportlab

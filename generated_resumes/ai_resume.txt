@@ -1,0 +1,63 @@
+Priyanshu
+priyanshu366522@gmail.com | www.linkedin.com/in/lakshya-raj-sisodiya-3115453b2
+
+PROFESSIONAL SUMMARY
+
+Experienced data scientist with 1 year of experience in Python, FastAPI, and automation. Skilled in statistical analysis, machine learning, and natural language processing. Proven track record of driving data-driven decision-making through advanced analytics.
+
+SKILLS
+
+- Python
+- FastAPI
+- Automation
+- Statistical Analysis
+- Machine Learning
+- Natural Language Processing
+
+EXPERIENCE
+
+Data Scientist | XYZ Company
+Date - Date
+- Developed and implemented machine learning models to support business functions
+- Conducted statistical analysis to uncover key insights and trends in large datasets
+- Collaborated with cross-functional teams to deliver impactful solutions
+
+PROJECTS
+
+- Implemented machine learning algorithms for predictive modeling
+- Utilized natural language processing techniques for text summarization and classification
+- Developed automation scripts to streamline processes
+
+EDUCATION
+
+- Bachelor's Degree in Data Science
+
+Candidate Details:
+- Experience: 1 year
+- Skills: Python, FastAPI, Automation
+
+Matched Job Description:
+
+Company Summary:
+At Young Innovations, we foster a dynamic environment where team members make an impact every day as part of a collaborative, inclusive culture. Together, we serve the dental profession and their patients, united in our mission of achieving a Lifetime of Oral Health™
+
+Position Overview:
+The Data Scientist will drive adoption and implementation of artificial intelligence, machine learning, and strategic analytics within our global data Fabric environment. This Data Scientist is ideal for someone with a strong foundation in statistical analysis, machine learning, and natural language processing, particularly in the application and fine-tuning of Large Language Models (LLMs). This professional will bring expertise in correlation analysis, predictive modeling, and the ability to work with large, complex datasets to drive data-driven decision-making across the organization.
+
+What You’ll Do:
+- AI/ML Development & Integration
+- Statistical & Analytical Modeling
+- Cross Functional & Strategic Collaboration
+
+What You’ll Bring:
+- Bachelors degree in Data Science, Computer Science, Statistics, Mathematics, or a related field
+- 3+ years of professional experience in data science, analytics, or machine learning roles
+- Hands-on experience working with and implementing Large Language Models (LLMs) and NLP techniques
+- Strong proficiency in Python and experience with ML frameworks
+
+The pay range reflects the minimum and maximum target for the position at the time of posting. Within the range, the compensation will be determined based on education/training, skill set, experience, and other organizational needs.
+
+Physical Requirements/Working Locations:
+Office/Remote Environment
+
+We are an Equal Opportunity Employer and value diversity at all levels of the organization. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status.
